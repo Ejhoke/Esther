@@ -1,0 +1,8 @@
+.Effect{
+    background-color: greenyellow;
+}
+img{
+    border-radius: 800%;
+    width: fit-content;
+    height: fit-content;
+}
